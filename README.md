@@ -1,7 +1,7 @@
 ![Badge](https://img.shields.io/static/v1?label=bash&message=tools&color=blue&flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=python&message=tools&color=red&flat&logo=PYTHON) 
 
-<img align="right" width="350" height="310" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" width="300" height="310" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 # Bem Vindo(a)!
  

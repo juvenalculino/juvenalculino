@@ -5,7 +5,6 @@
 
 # Bem Vindo(a)!
  
-* ## I'm Juvenal Culino!
  
 * [Cursos concluidos e certificados](https://github.com/juvenalculino/Cursos-Em-Andamento/blob/master/README.md)
 

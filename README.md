@@ -1,5 +1,7 @@
 ![Badge](https://img.shields.io/static/v1?label=bash&message=tools&color=blue&flat&logo=)
 ![Badge](https://img.shields.io/static/v1?label=python&message=tools&color=red&flat&logo=PYTHON) 
+![Badge](https://img.shields.io/static/v1?label=html&message=tools&color=yellow&flat&logo=html5) 
+![Badge](https://img.shields.io/static/v1?label=css&message=tools&color=blue&flat&logo=css3) 
 
 <img align="right" width="290" height="300" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 

@@ -26,3 +26,6 @@ https://juvenalculino.github.io/Pagina/#
 ## **Criação De uma página web com alguns catalogos de produtos:**
 
 https://juvenalculino.github.io/gelson/
+
+## **Criação de uma página simples:**
+https://juvenalculino.github.io/cameras/

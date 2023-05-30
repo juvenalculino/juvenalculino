@@ -8,7 +8,7 @@
 # Bem Vindo(a)!
  
  
-* [Cursos concluidos e certificados](https://github.com/juvenalculino/Cursos-Em-Andamento/blob/master/README.md)
+* [Cursos, Currículos e certificados](https://github.com/juvenalculino/Cursos-Em-Andamento/blob/master/README.md)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juvenalculino&show_icons=true&theme=radical)

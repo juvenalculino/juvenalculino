@@ -20,8 +20,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b831381@gmail.com)](mailto:b831381@gmail.com)
 
 ## **Portfólio:**
-
 https://juvenalculino.github.io/Pagina/#
+
+## **Deploy com streamlit e render - Página para buscar RF - Bolsa Família:**
+https://buscar-rf-mckqpmfb8j3dkjfdtrxbn7.streamlit.app
+<br>
+https://buscar-rf.onrender.com
 
 ## **Criação De uma página web com alguns catalogos de produtos:**
 

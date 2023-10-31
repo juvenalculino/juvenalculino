@@ -30,5 +30,5 @@ https://juvenalculino.github.io/gelson/
 ## **Criação de uma página simples:**
 https://juvenalculino.github.io/cameras/
 
-## **Projeto feito com Python e Django:**
-https://appinvestir.herokuapp.com
+## **Página - medicenter:**
+https://juvenalculino.github.io/medicenter/

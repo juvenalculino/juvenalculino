@@ -23,9 +23,9 @@
 https://juvenalculino.github.io/Pagina/#
 
 ## **Deploy com streamlit e render - Página para buscar RF - Bolsa Família:**
-https://buscar-rf-mckqpmfb8j3dkjfdtrxbn7.streamlit.app
+https://buscar-rf-bolsafamilia.streamlit.app
 <br>
-https://buscar-rf.onrender.com
+https://buscar-rf-bolsa-familia.onrender.com
 
 ## **Criação De uma página web com alguns catalogos de produtos:**
 

@@ -50,10 +50,8 @@
 https://juvenalculino.github.io/Pagina/#
 
 ---
-## **Deploy com streamlit e render - Página para buscar RF - Bolsa Família:**
-https://buscar-rf-bolsafamilia.streamlit.app
-<br>
-https://buscar-rf-bolsa-familia.onrender.com
+## **Painel cadastro Único 2025:**
+https://painelcadastrounico.streamlit.app
 
 ---
 ## **Criação De uma página web com alguns catalogos de produtos:**

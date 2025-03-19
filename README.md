@@ -54,13 +54,9 @@ https://juvenalculino.github.io/Pagina/#
 https://painelcadastrounico.streamlit.app
 
 ---
-## **Criação De uma página web com alguns catalogos de produtos:**
+## **Projeto IA - Advogado:**
 
-https://juvenalculino.github.io/gelson/
-
----
-## **Criação de uma página simples:**
-https://juvenalculino.github.io/cameras/
+https://advogado-ia-juvenal.streamlit.app
 
 ---
 ## **Página - medicenter:**

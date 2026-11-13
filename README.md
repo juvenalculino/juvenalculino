@@ -19,8 +19,7 @@
 # Bem Vindo(a)!
 * [Cursos, Currículos e certificados](https://github.com/juvenalculino/Cursos-Em-Andamento/blob/master/README.md)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juvenalculino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juvenalculino&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/juvenalculino?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 ## **About me:**

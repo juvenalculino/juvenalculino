@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Juvenal%20Culino&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontColor=e4f4e4"/>
 
-![Contador de Visitantes](https://komarev.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=juvenalculino&color=red&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=100&color=E94D5F&width=800&lines=Seja+bem+vindo+ao+meu+perfil+do+GitHub!;Prazer%2C+meu+nome+%C3%A9+Juvenal+Culino.;Resido+no+munícipio+de+Fátima+-+BA.)](https://git.io/typing-svg)
